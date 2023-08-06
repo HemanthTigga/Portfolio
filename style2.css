@@ -1,0 +1,72 @@
+#heading {
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Space Grotesk", "Poppins", sans-serif;
+    color: #01fe88c7;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.skills {
+    margin-left: 340px;
+    font-family: "Space Grotesk", "Poppins", sans-serif;
+    color: white;
+    margin-top: 80px;
+}
+
+.skills img {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-right: 10px;
+}
+
+.column1 {
+    float: left;
+    position: absolute;
+    width: 500px;
+}
+
+.column2 {
+    position: absolute;
+    margin: 220px;
+    margin-left: 520px;
+    width: 500px;
+}
+.project-column1 {
+    float: left;
+    position: absolute;
+    width: 500px;
+    margin-left: -80px;
+}
+.project-column2{
+    position: absolute;
+    margin: 0px;
+    margin-left: 550px;
+    width: 500px;
+}
+p {
+    font-size: 14px;
+}
+.project-column1 a{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(234, 108, 234);
+}
+.project-column2 a{
+    font-size: 20px;
+    text-decoration: none;
+    color: violet;
+}
+.project-column1 a:hover{
+    text-decoration: underline;
+}
+.project-column2 a:hover{
+    text-decoration: underline;
+}
+.project img {
+    width: 100px;
+    height: 100px;
+    /* float: left;
+    margin-right: 10px; */
+}
